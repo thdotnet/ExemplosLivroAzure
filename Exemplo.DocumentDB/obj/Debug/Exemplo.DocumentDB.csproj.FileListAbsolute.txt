@@ -1,0 +1,13 @@
+c:\users\thiagoc\documents\visual studio 2015\Projects\Exemplo.DocumentDB\Exemplo.DocumentDB\bin\Debug\Exemplo.DocumentDB.exe.config
+c:\users\thiagoc\documents\visual studio 2015\Projects\Exemplo.DocumentDB\Exemplo.DocumentDB\bin\Debug\Microsoft.Azure.Documents.ServiceInterop.dll
+c:\users\thiagoc\documents\visual studio 2015\Projects\Exemplo.DocumentDB\Exemplo.DocumentDB\bin\Debug\DocumentDB.Spatial.Sql.dll
+c:\users\thiagoc\documents\visual studio 2015\Projects\Exemplo.DocumentDB\Exemplo.DocumentDB\bin\Debug\JS\normalizarNomeEvento.js
+c:\users\thiagoc\documents\visual studio 2015\Projects\Exemplo.DocumentDB\Exemplo.DocumentDB\bin\Debug\JS\validaInscricao.js
+c:\users\thiagoc\documents\visual studio 2015\Projects\Exemplo.DocumentDB\Exemplo.DocumentDB\bin\Debug\Exemplo.DocumentDB.exe
+c:\users\thiagoc\documents\visual studio 2015\Projects\Exemplo.DocumentDB\Exemplo.DocumentDB\bin\Debug\Exemplo.DocumentDB.pdb
+c:\users\thiagoc\documents\visual studio 2015\Projects\Exemplo.DocumentDB\Exemplo.DocumentDB\bin\Debug\Microsoft.Azure.Documents.Client.dll
+c:\users\thiagoc\documents\visual studio 2015\Projects\Exemplo.DocumentDB\Exemplo.DocumentDB\bin\Debug\Newtonsoft.Json.dll
+c:\users\thiagoc\documents\visual studio 2015\Projects\Exemplo.DocumentDB\Exemplo.DocumentDB\bin\Debug\Microsoft.Azure.Documents.Client.xml
+c:\users\thiagoc\documents\visual studio 2015\Projects\Exemplo.DocumentDB\Exemplo.DocumentDB\obj\Debug\Exemplo.DocumentDB.csprojResolveAssemblyReference.cache
+c:\users\thiagoc\documents\visual studio 2015\Projects\Exemplo.DocumentDB\Exemplo.DocumentDB\obj\Debug\Exemplo.DocumentDB.exe
+c:\users\thiagoc\documents\visual studio 2015\Projects\Exemplo.DocumentDB\Exemplo.DocumentDB\obj\Debug\Exemplo.DocumentDB.pdb
