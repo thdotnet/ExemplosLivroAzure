@@ -28,6 +28,7 @@ namespace Exemplo.DocumentDB
             using (var client = new DocumentClient(new Uri(_endpoint), _primaryKey, connectionPolicy))
             {
                 var db = CriarDatabase(client, "eventos").Result;
+                
                 var col = CriarColecao(client, db, "azure").Result;
 
                 var evento = new Evento
@@ -61,7 +62,14 @@ namespace Exemplo.DocumentDB
                     }
                 };
 
-                var result2 = CriarDocumentoComTrigger(client, col, eventoAzureConf).Result;
+                var proc = CriarStoredProcedure(client, col).Result;
+                var validacao = ExecutarStoredProcedure(client, proc).Result;
+
+                if(validacao.Response == "OK")
+                {
+                    var trigger = CriarTrigger(client, col).Result;
+                    var result2 = CriarDocumentoComTrigger(client, col, eventoAzureConf).Result;
+                }                
             }
             Console.Read();
         }
